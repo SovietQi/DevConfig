@@ -3,6 +3,7 @@ NewKillAura:reach:4.3
 NewKillAura:autoblock:true
 Velocity:percentage:0.0
 NewCriticals:mode:NewHypixel
+NewCriticals:hurttime:4.0
 NewSpeed:mode:HypixelHop
 Flight:mode:Hypixel
 ChestStealer:delay:150.0
